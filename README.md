@@ -7,7 +7,7 @@
 **Authors**: Ning Chen, Elliot Macy
 
 ## Overview
-This project investigated the effect of coronaviurs to baby, toddler, teenager, young adult, middle-age and elder.
+This project predicts related rates with deep learning methods.
 
 
 ## Business Problem
@@ -22,8 +22,8 @@ API, web scrapping, dataset
 
 ## Methods
 
-logistic regression, random forest bagging,  gridsearch + XGboost
-
+Time Series Modeling \
+ARMA, ARIMA, SARIMAX, Facebook PROPHET, Recurrent Neural Network, Long-short term memory neural network(LSTM)
 
 ## Results
 
