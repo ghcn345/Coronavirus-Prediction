@@ -45,7 +45,7 @@ ARMA, ARIMA, SARIMAX, Facebook PROPHET, Recurrent Neural Network, Long-short ter
 
 Please review our full analysis in [our Jupyter Notebook](https://github.com/ghcn345/Coronavirus-Research) or our [presentation]().
 
-For any additional questions, please contact **Ning Chen—chen.ning345@gmail.com, Elliot Macy**.
+For any additional questions, please contact **Ning Chen—chen.ning345@gmail.com, Elliot Macy—elimacy@gmail.com**.
 
 ## Repository Structure
 
