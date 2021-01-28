@@ -2,7 +2,7 @@
 <img src="images/Coronavirus.jpg" width="900" height="585">
 </p>
 
-# Coronavirus-Research
+# Coronavirus Prediction
 
 **Authors**: Ning Chen, Elliot Macy
 
