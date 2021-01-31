@@ -7,36 +7,34 @@
 **Authors**: Ning Chen, Elliot Macy
 
 ## Overview
-This project predicts related rates with deep learning methods.
+The goal of this project is to investigate Coronavirus and make related predictions in regard to time series modeling. The data is accessed by public APIs. Machine learning and deep learning methods such as ARMA, ARIMA, SARIMAX, Facebook PROPHET, Recurrent Neural Network and Long short-term memory (LSTM) Networks are implemented and evaluated.
 
 
-## Business Problem
+## Business Understanding
 
 The goal of this project is to have you complete a very common real-world task in regard to time series modeling. However, real world problems often come with a significant degree of ambiguity, which requires you to use your knowledge of statistics and data science to think critically about and answer. While the main task in this project is time series modeling, that isn't the overall goal -- it is important to understand that time series modeling is a tool in your toolbox, and the forecasts it provides you are what you'll use to answer important questions.
 
 In short, to pass this project, demonstrating the quality and thoughtfulness of your overall recommendation is at least as important as successfully building a time series model!
 
 
-## Data
+## Data Understanding
+The Coronavirus data is accessed by open public APIs without authentication. It provides updated information associated with COVID-19. The public data [API](https://github.com/ghcn345/Coronavirus-Research) provides access to all of the data at a national and state level. The death cases, positive cases and mortality are studied to make further predictions. 
 
-API, web scrapping, dataset
 
-
-## Methods
-
-Time Series Modeling \
-ARMA, ARIMA, SARIMAX, Facebook PROPHET, Recurrent Neural Network, Long-short term memory neural network(LSTM)
-
-## Results
+## Data Preparation
+![graph](/images/death.png)
 
 
 
-***
 
-### Visualization
-![graph1](/images/box.png)
 
-## Conclusions
+
+
+
+### Modeling
+![graph](/images/death.png)
+
+## Evaluation
 
 
 
