@@ -32,7 +32,7 @@ The Coronavirus data is accessed by open public APIs without authentication. It 
 
 ## Evaluation
 SARIMAX with opitmized hyperparameters by Gridsearch and LSTM Networks show better RMSE and MAE results. 
-
+![graph](/images/lstm.jpeg)
 
 ## Deployment
 Web app can be furtherly tested and released.
