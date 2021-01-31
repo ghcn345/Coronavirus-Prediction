@@ -22,7 +22,7 @@ The Coronavirus data is accessed by open public APIs without authentication. It 
 
 
 ## Data Preparation
-![graph](/images/death.jpeg)
+![graph](/images/acf.jpeg)
 
 
 
