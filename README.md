@@ -27,16 +27,15 @@ The Coronavirus data is accessed by open public APIs without authentication. It 
 
 
 
-
-
-
-
-### Modeling
+## Modeling
 ![graph](/images/death.jpeg)
 
 ## Evaluation
+SARIMAX with opitmized hyperparameters by Gridsearch and LSTM Networks show better RMSE and MAE results. 
 
 
+## Deployment
+Web app can be furtherly tested and released.
 
 
 ## For More Information
