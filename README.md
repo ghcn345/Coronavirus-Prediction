@@ -42,7 +42,7 @@ All models are evaluated by RMSE and MAE.
 
 ![graph](/images/lstm.jpeg)
 
-## Deployment
+## Conclusion
 1. LSTM Networks serve as the best model for coronavirus prediction with small RMSE and MAE. 
 2. SARIMAX with opitmized hyperparameters by Gridsearch also work well for the prediction. 
 3. Due to limited known condtions, it is difficult to make precise predictions. 
