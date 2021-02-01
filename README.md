@@ -22,14 +22,16 @@ The Coronavirus data is accessed by open public APIs without authentication. It 
 
 
 ## Data Preparation
+ACF and PACF
 ![graph](/images/acf.jpeg)
 
 
 ## Modeling
-![graph](/images/death.jpeg)
-
+SARIMAX Model
 ![graph](/images/sarimax.jpeg)
 
+death prediction
+![graph](/images/death.jpeg)
 ## Evaluation
 SARIMAX with opitmized hyperparameters by Gridsearch and LSTM Networks show better RMSE and MAE results. 
 
