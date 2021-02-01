@@ -38,12 +38,15 @@ death prediction
 ![graph](/images/death.jpeg)
 
 ## Evaluation
-SARIMAX with opitmized hyperparameters by Gridsearch and LSTM Networks show better RMSE and MAE results. 
+All models are evaluated by RMSE and MAE.
 
 ![graph](/images/lstm.jpeg)
 
 ## Deployment
-Web app can be furtherly tested and released.
+1. LSTM Networks serve as the best model for coronavirus prediction with small RMSE and MAE. 
+2. SARIMAX with opitmized hyperparameters by Gridsearch also work well for the prediction. 
+3. Due to limited known condtions, it is difficult to make precise predictions. 
+4. It shows less death and positive cases at weekends and more cases on Monday.
 
 
 ## For More Information
