@@ -51,7 +51,7 @@ All models are evaluated by RMSE and MAE.
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](https://github.com/ghcn345/Coronavirus-Research) or our [presentation]().
+Please review our full analysis in [our Jupyter Notebook](https://github.com/ghcn345/Coronavirus-Prediction/blob/master/project_coronavirus.ipynb) or our [presentation](https://github.com/ghcn345/Coronavirus-Prediction/blob/master/Presentation.pdf).
 
 For any additional questions, please contact **Ning Chen—chen.ning345@gmail.com, Elliot Macy—elimacy@gmail.com**.
 
