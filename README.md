@@ -62,7 +62,8 @@ Description of the structure of the repository and its contents:
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── project_coronavirus                 <- Narrative documentation of analysis in Jupyter notebook
-├── Project_Presentation.pdf            <- PDF version of project presentation
+├── death_grid                          <- pickle to store the optimized results by Gridsearch
+├── Presentation.pdf                    <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 
