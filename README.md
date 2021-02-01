@@ -7,38 +7,43 @@
 **Authors**: Ning Chen, Elliot Macy
 
 ## Overview
-This project predicts related rates with deep learning methods.
+The goal of this project is to investigate Coronavirus and make related predictions in regard to time series modeling. The data is accessed by public APIs. Machine learning and deep learning methods such as ARMA, ARIMA, SARIMAX, Facebook PROPHET, Recurrent Neural Network and Long short-term memory (LSTM) Networks are implemented and evaluated.
 
 
-## Business Problem
+## Business Understanding
 
-The goal of this project is to have you complete a very common real-world task in regard to time series modeling. However, real world problems often come with a significant degree of ambiguity, which requires you to use your knowledge of statistics and data science to think critically about and answer. While the main task in this project is time series modeling, that isn't the overall goal -- it is important to understand that time series modeling is a tool in your toolbox, and the forecasts it provides you are what you'll use to answer important questions.
-
-In short, to pass this project, demonstrating the quality and thoughtfulness of your overall recommendation is at least as important as successfully building a time series model!
-
-
-## Data
-
-API, web scrapping, dataset
-
-
-## Methods
-
-Time Series Modeling \
-ARMA, ARIMA, SARIMAX, Facebook PROPHET, Recurrent Neural Network, Long-short term memory neural network(LSTM)
-
-## Results
+The prediction problem of Coronavirus comes with a significant degree of ambiguity, which is difficult to predict considering the complex circumstances in the real world. While one important task in this project is understanding time series modeling and forecasting related rates for the decision makers to layout some strategies in dealing with covid-19.
 
 
 
-***
 
-### Visualization
-![graph1](/images/box.png)
-
-## Conclusions
+## Data Understanding
+The Coronavirus data is accessed by open public APIs without authentication. It provides updated information associated with COVID-19. The public data [API](https://github.com/ghcn345/Coronavirus-Research) provides access to all of the data at a national and state level. The death cases, positive cases and mortality are studied to make further predictions. 
 
 
+## Data Preparation
+ACF and PACF 
+
+![graph](/images/acf.jpeg)
+
+
+## Modeling
+
+SARIMAX Model 
+
+![graph](/images/sarimax.jpeg)
+
+death prediction 
+
+![graph](/images/death.jpeg)
+
+## Evaluation
+SARIMAX with opitmized hyperparameters by Gridsearch and LSTM Networks show better RMSE and MAE results. 
+
+![graph](/images/lstm.jpeg)
+
+## Deployment
+Web app can be furtherly tested and released.
 
 
 ## For More Information
